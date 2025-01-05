@@ -1,4 +1,5 @@
-Emotion Detection using MediaPipe & Random Forest
+# **EMOTION DETECTION USING MEDIAPIPE & RANDOM FOREST**
+
 
 
 This project demonstrates facial expression detection (anger, disgust, fear, happiness, sadness, surprise) using:
